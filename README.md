@@ -1,2 +1,2 @@
 # snakeBot
-google snake bot
+google snake bot to beat smallest map at 5 apples
